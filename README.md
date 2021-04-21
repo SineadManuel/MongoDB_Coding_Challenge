@@ -96,7 +96,7 @@ Output:
 {
     "char": "a",
     "string": "abc",
-    "integer": "1",
+    "integer": 1,
     "bool": true
 }
 ```
