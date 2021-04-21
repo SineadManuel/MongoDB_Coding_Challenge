@@ -3,7 +3,7 @@
 ## Purpose of Challenge
 The aim of the MongoDB Coding Challenge is to write a program that takes a JSON object as an input and returns a flattened version of the JSON object as an output. My solution to this challenge is implemented in Java.
 
-## Assumption
+## Assumptions
 - JSON objects will be stored in files and tested by entering the file name into the command line terminal so that the program can read the JSON file.
 - JSON objects will span across several lines rather than written in one line
  
